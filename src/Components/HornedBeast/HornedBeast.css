@@ -1,4 +1,7 @@
-.cd 
+.card 
 {
-  background-color: brown;
+  width: 18rem;
+  margin-top: 1rem;
+  background-color: #323030;
+  color: #FFF;
 }
