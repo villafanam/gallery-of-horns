@@ -4,7 +4,6 @@ import Header from './Header/Header';
 import Footer from './Footer';
 import Main from './Main/Main';
 
-
 // 2nd Class component
 class App extends React.Component{
   render(){
