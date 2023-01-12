@@ -1,7 +1,13 @@
 .card 
 {
-  width: 18rem;
+  /* width: 18rem; */
   margin-top: 1rem;
   background-color: #323030;
   color: #FFF;
+  border-color: #323030;
+}
+
+.card-body
+{
+  background-color: #323030;
 }
