@@ -16,6 +16,14 @@
 + Finish time: 5:00 PM
 + Actual time needed to complete:  2.5 hr
 
+## Lab04
+
++ Number and name of feature: 1
++ Estimate of time needed to complete: 2 hr
++ Start time: 03:45 PM
++ Finish time: 4:30 PM
++ Actual time needed to complete: 45 minutes
+
 
 # Getting Started with Create React App
 
