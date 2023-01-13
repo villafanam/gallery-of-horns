@@ -3,7 +3,7 @@ import HornedBeast from '../HornedBeast/HornedBeast';
 import './Main.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
-import { Form, ListGroup } from 'react-bootstrap';
+import { Form } from 'react-bootstrap';
 
 
 class Main extends React.Component
